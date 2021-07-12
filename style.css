@@ -1,0 +1,72 @@
+.logo{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+a{
+    color:white;
+}
+
+a:hover{
+    color:white
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.desc{
+    margin-top: 16px;
+    width: fit-content;
+    padding-left: 105px;
+    padding-right: 105px;
+}
+
+img{
+   width: fit-content;
+   height: 400px; 
+}
+
+.icon{
+    height: 56px;
+    width: 56px;
+}
+
+.name{
+    font-size: 36px;
+}
+
+.table{
+    padding-left: 105px;
+    padding-right: 105px;
+    margin-top: 48px;
+    width: 80%;
+}
+
+button{
+    float: right;
+}
+
+.card-list{
+    margin: auto;
+    width: 60%;
+}
+
+.card{
+    margin-top: 48px;
+}
